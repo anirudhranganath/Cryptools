@@ -1,0 +1,23 @@
+Author: Anirudh Ranganath
+Licence: Free to fork/modify/distribute/commercialize. 
+
+Tool envisioned to be maintained as portable without installation.
+
+Project Last modified: 04-02-2012 (dd-mm-yyyy)
+README modification: 04-02-2012 (dd-mm-yyyy)
+Opened and added to git/github on(official birth): 04-02-2012 (dd-mm-yyyy)
+Last code modification: 04-02-2012 (dd-mm-yyyy)
+Last functionality addition: 28-11-2010 (dd-mm-yyyy)
+
+This is a winform based suite for
+1) Calculating Message digests (currently only md5)
+2) Encryption and Decryption (currently only DES)
+
+To be done (wishlist): 
+1) Test file size limits for md5
+2) Add sha and other digest mechanisms
+3) The DES currently works only for text files. Generalize it. 
+4) Implement the other crypo algorithms (bf and aes, 3des option can be removed).
+5) Clean up the code. The tool was built in the span of a few hours by a junior year student. Tremendous amount of bad code exists including atrocious use of try catch. Clean up needs to be done.
+
+The author (Anirudh) will not work on this till June 2012 (tentative).
